@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/ollypowell/fair1m-satellite-imagery-for-object-detection/code
+https://captain-whu.github.io/DOTA/dataset.html
+https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset?select=train
+https://captain-whu.github.io/iSAID/dataset.html
